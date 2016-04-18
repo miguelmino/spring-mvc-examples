@@ -1,4 +1,4 @@
-Spring MVC
+HEROKU Spring MVC
 ==========
 
 In this sample, we demonstrated a simple Bookstoree application using Spring MVC, [Kickstrap](http://ajkochanowicz.github.com/Kickstrap/). It demonstrate how to build a Spring MVC application using a TDD approach.
